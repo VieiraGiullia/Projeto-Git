@@ -31,3 +31,6 @@ Alterne entre as branch ou restaure os arquivos da working tree
 
 caso queira voltar para a branch main, digite no git bash
 git checkout "nome da branch"
+
+git merge
+O comando permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única
