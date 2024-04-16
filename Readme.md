@@ -25,4 +25,7 @@ git branch -m "main"
  comando para renomear a branch principal para "main"
  > foi mostrado este comando pois o git está mudando sua nomeclatura
 
-
+git checkout 
+Alterne entre as branch ou restaure os arquivos da working tree
+ > no exerc trocamos da branch main para a nova branch ("novo-botao") e com o checkout mudamos de branch, assim tudo será mudado apenas na nova branch ("novo-botao")
+  
