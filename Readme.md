@@ -28,4 +28,6 @@ git branch -m "main"
 git checkout 
 Alterne entre as branch ou restaure os arquivos da working tree
  > no exerc trocamos da branch main para a nova branch ("novo-botao") e com o checkout mudamos de branch, assim tudo será mudado apenas na nova branch ("novo-botao")
-  
+
+caso queira voltar para a branch main, digite no git bash
+git checkout "nome da branch"
